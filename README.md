@@ -40,7 +40,7 @@ To run locally, you need:
 Clone the repo and run the following commands to start the data pipeline:
 
 ```bash
-git clone https://github.com/josephmachado/beginner_de_project.git
+git clone https://github.com/mamesaliou/beginner_de_project.git
 cd beginner_de_project 
 make up
 sleep 30 # wait for Airflow to start
